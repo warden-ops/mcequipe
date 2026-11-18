@@ -217,11 +217,11 @@
     'privacy.hero.title': 'Privacy <span class="italic font-light">Policy</span>',
     'privacy.updated': 'Last updated: June 1, 2026',
     'privacy.intro':
-      'This policy describes how MC Équipe (Mathieu Michaud, real estate broker, eXp Realty) collects, uses, discloses, and protects your personal information in accordance with Quebec\'s Act respecting the protection of personal information in the private sector (CQLR, c. P-39.1), as amended by Law 25, and, where applicable, the federal Personal Information Protection and Electronic Documents Act (PIPEDA).',
+      'This policy describes how MC Équipe (Mathieu Michaud, residential real estate broker, eXp Agence Immobilière) collects, uses, discloses, and protects your personal information in accordance with Quebec\'s Act respecting the protection of personal information in the private sector (CQLR, c. P-39.1), as amended by Law 25, and, where applicable, the federal Personal Information Protection and Electronic Documents Act (PIPEDA).',
 
     'privacy.s1.title': '1. Person responsible for the protection of personal information',
     'privacy.s1.body':
-      'The person responsible for the protection of personal information is Mathieu Michaud. You may contact them regarding any request relating to your personal information:<br><br>Mathieu Michaud, MC Équipe<br>1111 Blvd. Dr. Frederik-Philips, Suite 601<br>Saint-Laurent, QC H4M 2X6<br>Email: <a href="mailto:info@mcequipe.com" class="text-mc-ocean hover:underline">info@mcequipe.com</a><br>Phone: (418) 655-8090',
+      'The person responsible for the protection of personal information is Mathieu Michaud. You may contact them regarding any request relating to your personal information:<br><br>Mathieu Michaud, MC Équipe<br>1111 Blvd. Dr. Frederik-Philips, Suite 601<br>Saint-Laurent, QC H4M 2X6<br>Email: <a href="mailto:info@mcequipe.com" class="text-mc-ocean hover:underline">info@mcequipe.com</a><br>Email: <a href="mailto:mathieu@mcequipe.com" class="text-mc-ocean hover:underline">mathieu@mcequipe.com</a>',
 
     'privacy.s2.title': '2. Personal information we collect',
     'privacy.s2.body':
